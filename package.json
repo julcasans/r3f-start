@@ -1,0 +1,24 @@
+{
+  "name": "r3f-start",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Julio E. Castillo Anselmi",
+  "license": "ISC",
+  "description": "React Three Fiber starter with Vite",
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.3",
+    "vite-plugin-restart": "^0.4.2"
+  }
+}
